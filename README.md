@@ -1,5 +1,8 @@
 # rm-bench
 
+> **Moved.** rm-bench now lives in [ai-rm `packages/rm-bench`](https://github.com/ai-computing/ai-rm/tree/master/packages/rm-bench), with this repository's history. This repository is archived (read-only).
+> Install: `pip install "rm-bench @ git+https://github.com/ai-computing/ai-rm#subdirectory=packages/rm-bench"`.
+
 ai-rm의 부하 생성·측정 도구 모음입니다. llm-d(OpenAI 호환 엔드포인트)를 대상으로 트래픽을 만들고 TTFT/TPOT/E2E/TPS를 측정합니다.
 
 | 경로 | 내용 |
